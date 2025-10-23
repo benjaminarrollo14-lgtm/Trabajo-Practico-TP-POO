@@ -1,5 +1,5 @@
 # //--- MÓDULO DE VALIDACIONES (SOLO PARA RESTAURANT) ---//
-# Funciones "humanas" para pedir datos de forma segura.
+# Funciones "humanas" 
 
 def validar_string(mensaje):
     """Pide un texto y se asegura de que no esté vacío."""
